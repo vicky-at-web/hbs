@@ -54,7 +54,8 @@ html {
 }
 
 body {
-  background-image: url(https://static.wikia.nocookie.net/onepiece/images/b/b5/Site-background-light/revision/latest/scale-to-width-down/1500?cb=20211209210547);
+  background-image: url("C:\Users\VIGNESH\Desktop\web development\vs code projects\html files\highest bounties project\Site-background-light.jpg");
+  display: flex;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -62,7 +63,7 @@ body {
 }
 
 .bounties {
-  background-color: #AE773F;;
+  background-color: #AE773F;
   border-radius: 10px;
   padding: 15px 25px;
   width: 100%;
